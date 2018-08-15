@@ -1,4 +1,5 @@
 body {
+    font-size: 16pt;
     margin: 60px auto;
     width: 70%;
 }
@@ -29,6 +30,7 @@ p {
     color: #333;
 }
 footer {
+    margin-top: 1rem;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
@@ -40,8 +42,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-img {
-    margin-left: 1rem;
-    margin-bottom: 1rem;
 }
